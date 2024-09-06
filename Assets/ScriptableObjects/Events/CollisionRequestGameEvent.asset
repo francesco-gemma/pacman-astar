@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0f6fd13f7da22142aa457fdf508b8cb, type: 3}
+  m_Name: CollisionRequestGameEvent
+  m_EditorClassIdentifier: 
+  _debugValue:
+    soundEffect: {fileID: 11400000, guid: 3f8df9903328a214ca90c8e295833b4f, type: 2}
+    points: {fileID: 11400000, guid: 03c0d76759f2189468477723dc0086e8, type: 2}

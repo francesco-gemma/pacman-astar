@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ca8dd3ad148a4f46a2d3087ad4a7344, type: 3}
+  m_Name: LevelParams
+  m_EditorClassIdentifier: 
+  currentLevel: {fileID: 11400000, guid: 57be5df2b3eeff743bbf6730a2d96795, type: 2}
+  assets:
+  - {fileID: 11400000, guid: 5bbdb52371b47ae42b1254e0183edb2b, type: 2}
+  - {fileID: 11400000, guid: 57be5df2b3eeff743bbf6730a2d96795, type: 2}
+  - {fileID: 11400000, guid: f582c83b52ebcbe4480a1a072755534e, type: 2}
+  - {fileID: 11400000, guid: 0e98ff33d44da1442a800e845b56a03a, type: 2}
+  - {fileID: 11400000, guid: c3a06cdeb92ae5b45b53ca4a460336cf, type: 2}
+  - {fileID: 11400000, guid: 50af79e8885cb084fae7670c92ae871e, type: 2}
+  - {fileID: 11400000, guid: 0b8ffbb91376e334dac69baa190afdee, type: 2}
+  - {fileID: 11400000, guid: 04c55cf3f17b4d3478bc712f4fbc0f78, type: 2}
+  - {fileID: 11400000, guid: c7a1dee5d2831fe44a9b721371924172, type: 2}
+  - {fileID: 11400000, guid: fb7e61a89ccc52948b66452e23d95a03, type: 2}
+  - {fileID: 11400000, guid: 2a57cb31917b9934d9a65c732229c4d0, type: 2}
+  - {fileID: 11400000, guid: ab480d7b62a1f4f4f90f0064a02bbdec, type: 2}
+  - {fileID: 11400000, guid: dd903caebc9aa6542bba450a07148eb4, type: 2}
+  - {fileID: 11400000, guid: 6cb62e37782411b4d8682531b46cc921, type: 2}
+  - {fileID: 11400000, guid: c1c21daa26511fd40a04615605674a00, type: 2}
+  - {fileID: 11400000, guid: 4adac44c1c9992c41b549539416b06d0, type: 2}
+  - {fileID: 11400000, guid: 0f7426eba057ea448bc5a8d1520f80a6, type: 2}
+  - {fileID: 11400000, guid: 203b6efe033da1b4095fa6b43ff5623c, type: 2}
+  - {fileID: 11400000, guid: b80f0588a95f333478a48410b8d78da3, type: 2}
+  - {fileID: 11400000, guid: 15153227edaf016429290bc1eee9f4a9, type: 2}
+  - {fileID: 11400000, guid: 99fdc4a91711cd94ab1481aa4a6ec956, type: 2}
+  onLevelParamsChange: {fileID: 11400000, guid: 52db3a47cda652d4c911af50b8897b1d, type: 2}

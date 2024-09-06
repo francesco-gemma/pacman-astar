@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 123f9430f3c2bf745913939dd16e396b, type: 3}
+  m_Name: PacmanDeath
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: 7963b03852d4ba24b892855b9717f643, type: 3}
+  loop: 0
+  destroySource: 0
+  volume: {x: 0.5, y: 0.5}
+  useSemitones: 0
+  semitones: {x: 0, y: 0}
+  pitch: {x: 1, y: 1}
+  playOrder: 1
+  playIndex: 0

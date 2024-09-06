@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d35c46ae78a07fa4a8fd6aac656fc306, type: 3}
+  m_Name: LevelConfiguration1
+  m_EditorClassIdentifier: 
+  level: 1
+  fruitSymbol: Cherries
+  fruitPoints: 100
+  pacmanSpeed: 0.8
+  pacmanDotsSpeed: 0.71
+  pacmanFrightSpeed: 0.9
+  pacmanFrightDotsSpeed: 0.79
+  ghostSpeed: 0.75
+  ghostTunnelSpeed: 0.4
+  ghostFrightSpeed: 0.5
+  frightTimeSec: 6
+  numOfFlashes: 5
+  ghostRed1DotsLeft: 20
+  ghostRed1Speed: 0.8
+  ghostRed2DotsLeft: 10
+  ghostRed2Speed: 0.85

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecdcb31c82c62b141bc49f6d08eedbb7, type: 3}
+  m_Name: SaveSystem
+  m_EditorClassIdentifier: 
+  saveFilename: savefile.sav
+  backupSaveFilename: savefile.sav.bak
+  saveObject: {fileID: 11400000, guid: 014413288dfa94c4faafeae529581167, type: 2}
+  saveData:
+    score: 0
+    level: 0
+    lives: 0

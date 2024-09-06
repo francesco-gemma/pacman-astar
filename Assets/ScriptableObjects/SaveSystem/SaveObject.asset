@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8dc160ea1eef9c4dbc9763d986a38f0, type: 3}
+  m_Name: SaveObject
+  m_EditorClassIdentifier: 
+  score:
+    _useConstant: 0
+    _constantValue: 0
+    _variable: {fileID: 11400000, guid: 25e125665043db84b8fd0b74fc0dad75, type: 2}
+  level:
+    _useConstant: 0
+    _constantValue: 0
+    _variable: {fileID: 11400000, guid: b85b7bf27e9e24e4484f37776579c9c5, type: 2}
+  lives:
+    _useConstant: 0
+    _constantValue: 0
+    _variable: {fileID: 11400000, guid: 37baa4dc7a1ef06468442e28cb519261, type: 2}
+  levelWon:
+    _useConstant: 0
+    _constantValue: 0
+    _variable: {fileID: 11400000, guid: 8851d46d9a67a0e4aa6ce99f9769a7ba, type: 2}
